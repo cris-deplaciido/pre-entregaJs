@@ -1,6 +1,8 @@
 //ingresar datos del comprador
 //elegir producto desesado 
-//
+//Seleccionar cantidad de pruductos 
+//Suma total de la compra
+//metodo de pago 
 
 
 
